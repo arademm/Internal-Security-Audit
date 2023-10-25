@@ -1,4 +1,4 @@
-# Project Title: Botium Toys Internal Security Audit
+# [Project Title: Botium Toys Internal Security Audit](https://docs.google.com/document/d/1kvi6s6pr-koIO1EWCmHarAyz1yeLNHP6YBe1EGW7coI/edit?usp=sharing)
 
 ### Introduction
 In this project, I conducted an internal security audit for Botium Toys, a small U.S. toy development and sales business experiencing rapid growth in its online presence. The objective was to assess the current security posture, identify potential risks, vulnerabilities, and compliance gaps, and provide recommendations to enhance security and compliance.

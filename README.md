@@ -35,6 +35,4 @@ Botium Toys' IT department initiated an internal security audit due to concerns 
   - Risk assessment reports
   - Controls and compliance checklist
 
-<figure class="text_container">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://docs.google.com/document/d/e/2PACX-1vQWzRQms92iJCy9SyDYseC-dAJXAy540xwy1Llb7QSNRHu1N9BbDdkCUDbYaxjlYKjsrRLAwNjEUUWZ/pub?embedded=true"></iframe>
-</figure>
+[Link to the documentation](https://docs.google.com/document/d/1kvi6s6pr-koIO1EWCmHarAyz1yeLNHP6YBe1EGW7coI/edit?usp=sharing)

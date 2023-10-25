@@ -14,6 +14,17 @@ Perform an internal audit by completing a controls and compliance checklist.
 ### Scenario (Based on a fictional company)
 Botium Toys' IT department initiated an internal security audit due to concerns about business continuity, compliance, and the growing online market. The audit aimed to secure the company's infrastructure, mitigate potential threats, and ensure compliance with relevant regulations, such as those related to online payments and the European Union.
 
+### Controls and Compliance Checklist:
+I completed a controls and compliance checklist to assess Botium Toys' current state of security controls and compliance. Some highlights include:
+
+ - Lack of "Least Privilege" and "Separation of Duties" controls.
+ - Absence of disaster recovery plans and data backups.
+ - Insufficient password policies and management.
+ - A missing intrusion detection system (IDS).
+ - Encryption gaps in credit card data handling.
+ - Privacy and data protection policies compliant with GDPR for E.U. customers.
+ - Recommendations provided for each control area.
+
 ### Results and Achievements
   - Identified high-risk areas, including inadequate asset management and non-compliance with regulations.
   - Scored the risk as 8 out of 10, signifying a fairly high risk.
